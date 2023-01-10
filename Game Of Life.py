@@ -1,10 +1,13 @@
 """
 
     Conway's Game of Life
+    
+    
+    CT
     2022-08-28
 
 
-    Left click grid to add seed patterns, then hit enter to run.
+    Left click grid to add seed patterns, then hit space to run.
 
 """
 
